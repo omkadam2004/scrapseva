@@ -1,0 +1,9 @@
+
+body { font-family: 'Inter', sans-serif; }
+.font-serif-custom { font-family: 'Playfair Display', serif; }
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #f1f1f1; }
+::-webkit-scrollbar-thumb { background: #10b981; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #059669; }

@@ -1,0 +1,1 @@
+// Component consolidated to root App.tsx

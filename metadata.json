@@ -1,0 +1,8 @@
+{
+  "name": "Rj King",
+  "description": "A comprehensive scrap collection platform featuring gamified rewards and optimized logistics for collectors and sellers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
